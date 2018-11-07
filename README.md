@@ -35,7 +35,7 @@ All that using flex stylesheets:
 # How it works
 
 ## Functions
-For calculator to work we use for separate functions: number( num ) and three anonymous: reset, back, result.
+For calculator to work we use four separate functions: number( num ) and three anonymous: reset, back, result.
 
 ### number(num)
 This function gets argument from touchable and after checking if what we want to print on the screen is fine adds it to string state that is printed in result-box.

@@ -14,7 +14,7 @@
 
 [Code - UI](#behind-the-code)
 
-[Code - mechanism](#how-it-works)
+[Code - Mechanism](#how-it-works)
 
 # Interface:
 ![Interface](https://i.gyazo.com/c4d74e402a56970573cf74dcc0b1c730.png)

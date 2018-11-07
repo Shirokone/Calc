@@ -4,9 +4,13 @@
 ### Created for Mobile Programming Classes at
 ### Państwowa Wyższa Szkoła Zawodowa w Tarnowie
 
+Contents:
 
-[Interface](#Interface)
+[Interface](#interface)
 
+[Code - UI](#behind-the-code)
+
+[Code - mechanism](#how-it-works)
 
 # Interface:
 ![Interface](https://i.gyazo.com/c4d74e402a56970573cf74dcc0b1c730.png)
@@ -24,9 +28,9 @@ All that using flex stylesheets:
 
 ![Flex code](https://i.gyazo.com/ce923ff0418d8c20b2b6cad1c51fb04d.png)
 
-## How it works
+# How it works
 
-### Functions
+## Functions
 For calculator to work we use for separate functions: number( num ) and three anonymous: reset, back, result.
 
 ### number(num)

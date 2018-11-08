@@ -19,7 +19,7 @@
 # Interface:
 ![Interface](https://i.gyazo.com/c4d74e402a56970573cf74dcc0b1c730.png)
 
-Classic look of an calculator with modern touch, it consists of number buttons, basic operations (*,/,+.-) buttons. point button, button to delete last entry, button to clear result-box and equal button to see the result of our operations.
+Classic look of a calculator with modern touch, it consists of number buttons, basic operations (*,/,+.-) buttons. point button, button to delete last entry, button to clear result-box and equal button to see the result of our operations.
 
 # Behind the code:
 

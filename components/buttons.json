@@ -1,0 +1,33 @@
+{
+  "buttons": {
+    "1": [
+    {"title": "C", "func": "Reset", "flex": 1, "color": "gray"},
+    {"title": " ", "func": "", "flex": 1, "color": "gray"},
+    {"title": "←", "func": "Back", "flex": 1, "color": "gray"},
+    {"title": "X", "func": "*", "flex": 1, "color": "#afbcea"},
+  ],
+  "2": [
+    {"title": "7", "func": "7", "flex": 1, "color": "darkgray"},
+    {"title": "8", "func": "8", "flex": 1, "color": "darkgray"},
+    {"title": "9", "func": "9", "flex": 1, "color": "darkgray"},
+    {"title": "÷", "func": "/", "flex": 1, "color": "#afbcea"},
+  ],
+  "3": [
+    {"title": "4", "func": "4", "flex": 1, "color": "darkgray"},
+    {"title": "5", "func": "5", "flex": 1, "color": "darkgray"},
+    {"title": "6", "func": "6", "flex": 1, "color": "darkgray"},
+    {"title": "+", "func": "+", "flex": 1, "color": "#afbcea"},
+  ],
+  "4": [
+    {"title": "1", "func": "1", "flex": 1, "color": "darkgray"},
+    {"title": "2", "func": "2", "flex": 1, "color": "darkgray"},
+    {"title": "3", "func": "3", "flex": 1, "color": "darkgray"},
+    {"title": "-", "func": "-", "flex": 1, "color": "#afbcea"},
+  ],
+  "5": [
+    {"title": "0", "func": "0", "flex": 2, "color": "darkgray"},
+    {"title": ".", "func": ".", "flex": 1, "color": "darkgray"},
+    {"title": "=", "func": "Result", "flex": 1, "color": "#afbcea"},
+  ],
+  }
+}

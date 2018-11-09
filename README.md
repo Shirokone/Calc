@@ -32,7 +32,7 @@ All that using flex stylesheets:
 
 ![Flex code](https://i.gyazo.com/ce923ff0418d8c20b2b6cad1c51fb04d.png)
 
-# How it works
+# How it works (old version 1.0)
 
 ## Functions
 For calculator to work we use four separate functions: number( num ) and three parameter-free: reset, back, result.

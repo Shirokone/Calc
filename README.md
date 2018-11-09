@@ -23,7 +23,8 @@ Classic look of a calculator with modern touch, it consists of number buttons, b
 
 # Behind the code:
 
-## UI (old version 1.0)
+## UI 
+(old version 1.0)
 is created by setting up one big container (View) for program spliting it into to boxes with different sizes. First box is result-box (flex: 1), second button-box (flex: 4) further split into two boxes for readabiltiy, then left box into rows. Buttons are created by using TouchableOpacities.
 
 (old version 1.0)
@@ -33,7 +34,8 @@ All that using flex stylesheets:
 
 ![Flex code](https://i.gyazo.com/ce923ff0418d8c20b2b6cad1c51fb04d.png)
 
-# How it works (old version 1.0)
+# How it works 
+(old version 1.0)
 
 ## Functions
 For calculator to work we use four separate functions: number( num ) and three parameter-free: reset, back, result.
